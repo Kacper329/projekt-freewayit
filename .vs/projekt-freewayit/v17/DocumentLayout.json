@@ -14,20 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\KacperKania\\source\\repos\\projekt-freewayit\\README.md",
               "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\KacperKania\\source\\repos\\projekt-freewayit\\README.md*",
-              "RelativeToolTip": "README.md*",
+              "ToolTip": "C:\\Users\\KacperKania\\source\\repos\\projekt-freewayit\\README.md",
+              "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-11-03T09:56:23.749Z",
