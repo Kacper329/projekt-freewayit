@@ -71,3 +71,4 @@ C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\obj\Debug\Fre
 C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\obj\Debug\FreewayI.B36C9CE6.Up2Date
 C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\obj\Debug\FreewayIT.Test.dll
 C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\obj\Debug\FreewayIT.Test.pdb
+C:\Users\KacperKania\source\repos\projekt-freewayit\FreewayIT.Test\bin\FreewayIT.Test.dll.config
