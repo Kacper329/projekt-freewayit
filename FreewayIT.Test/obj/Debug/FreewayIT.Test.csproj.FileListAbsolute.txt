@@ -35,7 +35,6 @@ C:\Users\JacekSkowron\Downloads\FreewayIT.Test\FreewayIT.Test\obj\Debug\FreewayI
 C:\Users\JacekSkowron\Downloads\FreewayIT.Test\FreewayIT.Test\obj\Debug\FreewayIT.Test.dll
 C:\Users\JacekSkowron\Downloads\FreewayIT.Test\FreewayIT.Test\obj\Debug\FreewayIT.Test.pdb
 C:\Users\JacekSkowron\Downloads\FreewayIT.Test\FreewayIT.Test\obj\Debug\FreewayI.B36C9CE6.Up2Date
-C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\bin\FreewayIT.Test.dll.config
 C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\bin\FreewayIT.Test.dll
 C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\bin\FreewayIT.Test.pdb
 C:\Users\KacperKania\Source\Repos\projekt-freewayit\FreewayIT.Test\bin\Antlr3.Runtime.dll
